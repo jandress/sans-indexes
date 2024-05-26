@@ -5,4 +5,5 @@
 *.log
 *.synctex.gz
 *.bak
-*/main.tex.DS_Store
+*/main.tex
+.DS_Store
